@@ -1,0 +1,13 @@
+#############################################################################
+#
+# Ruby implementation of comment system
+#
+# Features:
+# 1. Easy integration
+# 2. URL based streams
+# 3. DOM based streams
+# 4. Live implementation
+#
+#############################################################################
+
+
